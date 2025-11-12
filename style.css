@@ -1,0 +1,17 @@
+body {
+background-color: pink;
+text-align: center;
+
+}
+.layout {
+    display: flexbox;
+    margin-left: 0%;
+}
+.layout2 {
+    display: flexbox;
+    margin-left: 0%;
+}
+.layout3 {
+    display: flexbox;
+    margin-left: 0%;
+}
